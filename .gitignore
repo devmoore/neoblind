@@ -1,0 +1,17 @@
+
+.idea/Home_Assistant_NeoSmartBlinds.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+*.pyc
+releases/neosmartblinds_v1.7z
+releases/neosmartblinds_v1.zip
+
+neosmartblinds/
+
+releases/
+
+venv/
+
+*.zip
